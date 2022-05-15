@@ -17,6 +17,17 @@ body {
 .search:hover {
   transition: all 150ms ease-in-out;
 }
+button {
+  border: none;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto 5px;
+  background-color: rgb(245, 241, 241);
+}
+button:hover {
+  transition: all 150ms ease-in-out;
+  background-color: rgb(233, 230, 230);
+}
 .il-cloudly {
   font-size: 80px;
   border-radius: 30px;
